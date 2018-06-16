@@ -2,3 +2,4 @@
 .DS_Store
 cnn_dataset
 ffnn_dataset
+static/
