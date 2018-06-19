@@ -3,3 +3,4 @@
 cnn_dataset
 ffnn_dataset
 static/
+logs/
